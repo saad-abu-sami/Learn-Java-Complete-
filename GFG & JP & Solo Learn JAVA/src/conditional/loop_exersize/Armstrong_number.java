@@ -2,25 +2,25 @@ package conditional.loop_exersize;
 
 import java.util.Scanner;
 
-public class Palindrom_number {
+public class Armstrong_number {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int num, sum = 0, temp, r;
+        int sum = 0, r, temp, num;
         while(true){
-            System.out.println("Enter any number : ");
+            System.out.println("Enter any number: ");
             num = input.nextInt();
 
             temp = num;
-            while (temp!=0){
+            while (temp != 0) {
                 r = temp % 10;
-                sum = sum * 10 + r;
+                sum = sum + r*r*r;
                 temp = temp / 10;
             }
-            if(num == sum){
-                System.out.println("Palindrome number");
+            if(num==sum) {
+                System.out.println("Armstrong number");
             }
             else{
-                System.out.println("Not a palindrome number");
+                System.out.println("Not Armstrong number");
             }
         }
     }
