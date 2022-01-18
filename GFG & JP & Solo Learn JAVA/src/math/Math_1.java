@@ -1,5 +1,4 @@
 package math;
-
 public class Math_1 {
     public static void main(String[] args) {
         int x =10;
@@ -25,5 +24,6 @@ public class Math_1 {
         System.out.println("exp of x is: " +Math.exp(x));
         // return (x power of 2)-1
         System.out.println("expm1 of x is: " +Math.expm1(x));
+
     }
 }
