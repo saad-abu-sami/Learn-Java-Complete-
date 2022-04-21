@@ -1,0 +1,159 @@
+{
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "python.pythonPath": "/usr/bin/python3",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.linkedEditing": true,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontSize": 15,
+    "files.autoSave": "afterDelay",
+    "editor.fontLigatures": true,
+    "editor.cursorBlinking": "expand",
+    "vscode-edge-devtools.browserFlavor": "Default",
+    "extensions.webWorker": true,
+    "extensions.confirmedUriHandlerExtensionIds": [],
+    "vscode-edge-devtools.headless": true,
+    "vscode-edge-devtools.useHttps": true,
+    "indentRainbow.ignoreLinePatterns": [
+        "/[ \t]* [*]/g",
+        "/[ \t]+[/]{2}/g"
+    ],
+    "indentRainbow.indentSetter": {},
+    "indentRainbow.includedLanguages": [],
+    "indentRainbow.colors": [
+        "rgba(255,255,64,0.07)",
+        "rgba(127,255,127,0.07)",
+        "rgba(255,127,255,0.07)",
+        "rgba(79,236,236,0.07)"
+    ],
+    "vscode-edge-devtools.pathMapping": {
+        "/": "${workspaceFolder}"
+    },
+    "vscode-edge-devtools.enableNetwork": true,
+    "indentRainbow.excludedLanguages": [
+        "plaintext"
+    ],
+    "indentRainbow.ignoreErrorLanguages": [
+        "markdown"
+    ],
+    "editor.lineHeight": 22,
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.port": "5500",
+    // "editor.wordWrapColumn": 70,
+    // "editor.wordWrap": "wordWrapColumn",
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.fontSize": 14,
+    "workbench.productIconTheme": "feather-vscode",
+    "tabnine.experimentalAutoImports": true,
+    "code-runner.runInTerminal": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "vscode-edge-devtools.defaultUrl": "",
+    "calendar.google.credentialsFile": "https://developers.google.com/calendar/overview",
+    "git.autofetch": true,
+    "bracketLens.debug": true,
+    "bracketLens.mode": "auto",
+    "editor.cursorWidth": 3,
+    "http.proxySupport": "off",
+    "editor.renderControlCharacters": true,
+    "workbench.settings.editor": "json",
+    "notebook.kernelProviderAssociations": [],
+    "workbench.settings.openDefaultKeybindings": true,
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.settingsSearchTocBehavior": "hide",
+    "workbench.settings.useSplitJSON": true,
+    "editor.quickSuggestionsDelay": 0,
+    "files.trimFinalNewlines": true,
+    // TODO: boundary takes arrow in the line
+    "editor.renderWhitespace": "boundary",
+    "sync.gist": "d0d907b4d36a93cd45ecb00e17fd7915",
+    "sync.autoUpload": true,
+    "git.confirmSync": false,
+    "editor.accessibilitySupport": "off",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "yaml.schemas": {
+        "file:///Users/saadabusami/.vscode-insiders/extensions/atlassian.atlascode-2.10.9/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "codestream.email": "saadabusami061@gmail.com",
+    "redhat.telemetry.enabled": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.suggest.preview": true,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.verticalScrollbarSize": 5,
+    "errorLens.scrollbarHackEnabled": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "GitLive.Issue tracker integration": "Disabled",
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "javascript.format.semicolons": "insert",
+    "editor.tabSize": 3,
+    "touchBar.showActiveFileInExplorer": true,
+    "touchBar.terminal": true,
+    "touchBar.unfoldAll": true,
+    "editor.bracketPairColorization.enabled": true,
+    "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+    "javascript.inlayHints.parameterNames.enabled": "all",
+    "javascript.inlayHints.parameterTypes.enabled": true,
+    "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+    "javascript.inlayHints.variableTypes.enabled": true,
+    "vscode-edge-devtools.mirrorEdits": true,
+    "git.enableSmartCommit": true,
+    "touchBar.themeToggle": true,
+    "tabnine.receiveBetaChannelUpdates": true,
+    "atlascode.jira.lastCreateSiteAndProject": {
+        "siteId": "",
+        "projectKey": ""
+    },
+    "editor.scrollbar.horizontalScrollbarSize": 17,
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": true,
+    "workbench.colorCustomizations": {
+        "editorBracketHighlight.foreground1": "#ff652f",
+        "editorBracketPairGuide.background1": "#ff662f36",
+        "editorBracketHighlight.foreground2": "#9fbf45",
+        "editorBracketPairGuide.background2": "#9fbf4536",
+        "editorBracketHighlight.foreground3": "#429ed6",
+        "editorBracketPairGuide.background3": "#429ed636",
+        "editorBracketHighlight.foreground4": "#ae55d1",
+        "editorBracketPairGuide.background4": "#ff4ca336",
+        "editorBracketHighlight.foreground5": "#ecb642",
+        "editorBracketPairGuide.background5": "#ff4ca336",
+        "editorBracketHighlight.foreground6": "#7382da",
+        "editorBracketPairGuide.background6": "#ff4ca336",
+    },
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Cobalt Next",
+    "explorer.openEditors.sortOrder": "alphabetical",
+    "errorLens.statusBarColorsEnabled": true,
+    "terminal.integrated.env.osx": {
+        "FIG_NEW_SESSION": "1"
+    },
+    "workbench.experimental.layoutControl.enabled": true
+}
