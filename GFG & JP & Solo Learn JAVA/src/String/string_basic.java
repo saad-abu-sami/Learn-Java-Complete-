@@ -28,6 +28,15 @@ public class string_basic {
         //The sequence \\  inserts a single backslash in a string:
         String txt6 = "The character \\ is called backslash.";
         System.out.println(txt6);
+        String s1 = "SAAD"; String s2 = "Saad";
+        if(s1.contains(s2)){ //contains() is case sensitive
+            System.out.println("Equals");
+        }else{
+            System.out.println("Not equals");
+        }
+        if(s1.equalsIgnoreCase(s2)){ //equalsIgnoreCase() is not case sensitive.
+            System.out.println("S1 and S2 are Equals");
+        }
 
     }
 }
